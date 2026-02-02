@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Memory Statue v2: A Structured Memory Architecture for Long-Horizon AI Agents"
+type: article
+authors:
+  - family-names: Frazier
+    given-names: "Lloyd D."
+date-released: "2026-01-29"
+version: "1.4.4"
+doi: "10.5281/zenodo.18452213"
+url: "https://doi.org/10.5281/zenodo.18452213"
+repository-code: "https://github.com/TheRealLloydFrazier/memory-statue-v2"
+keywords:
+  - artificial intelligence
+  - memory systems
+  - long-horizon agents
+  - retrieval-augmented generation
+  - drift reduction
+  - governance
+license: "LicenseRef-LICENSE"
+abstract: |
+  Modern LLMs can accept long contexts, but still degrade under high information 
+  density, suffer from mid-context underutilization, and face cost blow-ups when 
+  used as "memory" by stuffing everything into prompts. Memory Statue v2 proposes 
+  a structured external memory system blueprint: an end-to-end memory architecture 
+  (agent + store + retrieval + maintenance + harness) paired with a structured 
+  memory store and retrieval lens called Memory Crystal (capsules + indices + 
+  policies). The design emphasizes deterministic schemas, governed promotion of 
+  "canonical" beliefs, append-only audit trails, and drift reduction via measurable 
+  defect metrics and maintenance routines.
