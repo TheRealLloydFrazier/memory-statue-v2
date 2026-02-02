@@ -1,0 +1,37 @@
+Memory Statue v2: Availability & Licensing
+Version 1.4.4 (2026-01-29)
+
+This work is intended to be used, tested, and extended by the community.
+
+LICENSING STANCE
+This release is source-available and non-commercial (i.e., it should not be 
+treated as OSI "open source," because commercial use is restricted).
+
+NON-COMMERCIAL USE (PERMISSION GRANTED)
+Permission is granted, free of charge, to use, copy, modify, and build upon 
+this manuscript and its accompanying artifacts for research, education, personal 
+study, and other non-commercial purposes, provided that:
+  (i) proper attribution is given to the author and this paper, and 
+  (ii) any redistributed copies retain this section (or an equivalent 
+       licensing notice).
+
+COMMUNITY REQUEST (NON-BINDING)
+Users are encouraged to share back use cases, implementation notes, and 
+empirical findings/breakthroughs—publicly or privately, and anonymized/redacted 
+is acceptable. Sharing back is requested to accelerate validation and reduce 
+duplicated effort, but it is not a condition of the non-commercial permission 
+grant.
+
+COMMERCIAL USE
+Any use primarily intended for commercial advantage or monetary compensation 
+requires a separate, negotiated license with the author on a case-by-case basis.
+
+COLLABORATION NOTE
+Teams interested in running test cases or proofs of concept with the author to 
+generate empirical evidence are encouraged to collaborate; such collaborations 
+may be eligible for special licensing consideration.
+
+---
+
+Copyright © 2026 Lloyd D. Frazier
+DOI: 10.5281/zenodo.18452213
